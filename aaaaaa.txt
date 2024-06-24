@@ -3,3 +3,4 @@ for the test, i am going to manage the process each by secences.
 these  are couples of ways in this topic.
 
 git is the system to compale widely some data wichi is the log and changed its.
+git-hub is a platform of openresources and it can be shared some codes with fello developers.
